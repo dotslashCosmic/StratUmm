@@ -4,6 +4,8 @@
 
 StratUmm is a powerful and user-friendly NTP amplification attack tool, built with Rust and featuring a graphical user interface (GUI). It allows you to perform NTP reflection attacks against a target IP address by leveraging vulnerable NTP servers. A key feature is the ability to **spoof the source IP address** of the attack packets, enhancing anonymity and making the attack untraceable to the origin.
 
+stratumm.exe SHA512: aeb3bb47397cf8744850460a4682aa93210ff499cbbb5f9e6f7b5195b577afbd39ed811be3835020ee83ba0aaa319e7b626718b1319f49e52f8cc508d8ee15a3
+
 This tool is designed for educational purposes and network security research. **Misuse of this tool for illegal activities is strictly prohibited and the author is not responsible for any such misuse.**
 
 ## Features
